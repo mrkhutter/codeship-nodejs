@@ -1,4 +1,3 @@
-Will redo this
 
 # node-js-sample
 
